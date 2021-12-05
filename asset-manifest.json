@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0c10ba2.chunk.css",
-    "main.js": "/static/js/main.b542075c.chunk.js",
-    "main.js.map": "/static/js/main.b542075c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bf0692fd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bf0692fd.js.map",
-    "static/js/2.aa5089f3.chunk.js": "/static/js/2.aa5089f3.chunk.js",
-    "static/js/2.aa5089f3.chunk.js.map": "/static/js/2.aa5089f3.chunk.js.map",
-    "static/js/3.f7318db3.chunk.js": "/static/js/3.f7318db3.chunk.js",
-    "static/js/3.f7318db3.chunk.js.map": "/static/js/3.f7318db3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b0c10ba2.chunk.css.map": "/static/css/main.b0c10ba2.chunk.css.map",
-    "static/js/2.aa5089f3.chunk.js.LICENSE.txt": "/static/js/2.aa5089f3.chunk.js.LICENSE.txt"
+    "main.css": "/tic-tac-toe/static/css/main.b0c10ba2.chunk.css",
+    "main.js": "/tic-tac-toe/static/js/main.b542075c.chunk.js",
+    "main.js.map": "/tic-tac-toe/static/js/main.b542075c.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe/static/js/runtime-main.616ae2d0.js",
+    "runtime-main.js.map": "/tic-tac-toe/static/js/runtime-main.616ae2d0.js.map",
+    "static/js/2.aa5089f3.chunk.js": "/tic-tac-toe/static/js/2.aa5089f3.chunk.js",
+    "static/js/2.aa5089f3.chunk.js.map": "/tic-tac-toe/static/js/2.aa5089f3.chunk.js.map",
+    "static/js/3.f7318db3.chunk.js": "/tic-tac-toe/static/js/3.f7318db3.chunk.js",
+    "static/js/3.f7318db3.chunk.js.map": "/tic-tac-toe/static/js/3.f7318db3.chunk.js.map",
+    "index.html": "/tic-tac-toe/index.html",
+    "static/css/main.b0c10ba2.chunk.css.map": "/tic-tac-toe/static/css/main.b0c10ba2.chunk.css.map",
+    "static/js/2.aa5089f3.chunk.js.LICENSE.txt": "/tic-tac-toe/static/js/2.aa5089f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf0692fd.js",
+    "static/js/runtime-main.616ae2d0.js",
     "static/js/2.aa5089f3.chunk.js",
     "static/css/main.b0c10ba2.chunk.css",
     "static/js/main.b542075c.chunk.js"
